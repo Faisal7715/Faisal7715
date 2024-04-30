@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Faisal7715
-- 👀 I’m interested in web and mobile application development.
-- 🌱 I’m currently learning about mobile application development and other new tools.
-- 💞️ I’m looking to collaborate on projects about web frontend development and desktop development.
+- 👀 I'm React Native developer and I’m interested in mobile application development.
+- 🌱 I’m currently learning about mobile application development(React Native) and other new tools.
+- 💞️ I’m looking to collaborate on projects about mobile application frontend development.(React Native)
 - 📫 You can also reach me through my linkedin profile ( linkedin.com/in/faisal-maqbool ).
 
 <!---
